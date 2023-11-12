@@ -68,7 +68,7 @@ export default function HomeComponent() {
 
       <Box>
         <Typography variant="caption">
-          <b>Disclaimer:</b> This project for developed for fun and results
+          <b>Disclaimer:</b> This project is developed for fun and results
           obtained from this App is not to be taken seriously!
         </Typography>
       </Box>
